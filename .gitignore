@@ -1,0 +1,24 @@
+# --- Sistem Operasi (Wajib di-ignore) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Editor VS Code (Agar settingan editor Anda tidak ter-upload) ---
+.vscode/
+.idea/
+
+# --- Dependency (Jaga-jaga jika ada folder ini) ---
+/vendor/
+/node_modules/
+
+# --- Keamanan & Konfigurasi Lokal (PENTING) ---
+# File .env biasanya menyimpan password, jangan di-upload
+.env
+
+# Jika file koneksi.php Anda berisi password asli, uncomment baris bawah:
+# koneksi.php
+
+# --- Log Error XAMPP/PHP ---
+error_log
+php_error.log
+debug.log
