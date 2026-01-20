@@ -65,7 +65,7 @@ Aplikasi ini dikembangkan sebagai proyek akhir selama masa magang saya di **UPTD
 
 ## Author
 
-* **Ivana Naomi Simanjuntak**
+* **Ivana Naomi**
 * [LinkedIn](https://linkedin.com/in/ivanaanaomi)
 
 ---
