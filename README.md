@@ -36,7 +36,9 @@ Aplikasi ini dikembangkan sebagai proyek akhir selama masa magang saya di **UPTD
 
 ## Screenshots
 
-| <img src="asset/dashboard-admin.png" width="400"> | <img src="asset/home-page.png" width="400"> | <img src="asset/dashboard-siakad-admin.png" width="400"> | <img src="asset/dashboard-siakad-guru.png" width="400"> | <img src="asset/dashboard-siakad-siswa.png" width="400"> |
+| Halaman Beranda | Dashboard Siakad Siswa |
+|:---:|:---:|
+| <img src="asset/home-page.png" width="400" alt="Home"> | <img src="asset/dashboard-siakad-siswa.png" width="400" alt="Report Form"> |
 
 ## Installation (Localhost)
 
