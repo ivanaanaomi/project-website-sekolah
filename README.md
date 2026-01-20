@@ -36,8 +36,6 @@ Aplikasi ini dikembangkan sebagai proyek akhir selama masa magang saya di **UPTD
 
 ## Screenshots
 
-| Halaman Admin || Halaman Depan | Dashboard Siakad Admin | Dashboard Siakad Guru | Dashboard Siakad Siswa |
-|:---:|:---:|:---:|:---:|:---:|
 | <img src="asset/dashboard-admin.png" width="400"> | <img src="asset/home-page.png" width="400"> | <img src="asset/dashboard-siakad-admin.png" width="400"> | <img src="asset/dashboard-siakad-guru.png" width="400"> | <img src="asset/dashboard-siakad-siswa.png" width="400"> |
 
 ## Installation (Localhost)
